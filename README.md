@@ -16,3 +16,5 @@ SQL Data Analysis File: This file comprises the SQL script for conducting a thor
 Power BI Code Text File: Here, you'll find the code or configurations used in Power BI to visualize and further analyze the data.
 
 Analysis Observations Text File: This document contains the key observations, findings, and insights derived from the analysis of the sales data. It summarizes the factors influencing the revenue trends and the reasons for the 300% increase in 2018.
+
+POWER-BI Dashboard: It presents the analisis in the grapcial form 
