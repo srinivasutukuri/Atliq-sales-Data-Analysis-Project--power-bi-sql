@@ -1,0 +1,20 @@
+
+
+                            DASHBOARD PLAN
+7 CARDS:
+         1. REVENUE
+         2. AVERAGE REVENUE
+         3. NO OF SALES
+         4. QUNTITY
+         5. NO OF NEW PRODUCTS INTRODUCED IN EACH YEAR
+         6. NO OF PRODUCT REMOVED FROM PREVIOUS YEAR
+         7. EFFECT OF THE NEW PRODUCTS
+3 GRAPHS 
+         1. SALES BY QUATER
+         2. SALES BY SALES TYPE
+         3. SALES BY MARKETS
+1 SCLICER 
+         1.YEAR
+2 TABLES 
+         TOP 5 PROCUCTS
+         TOP 5 COUSTOMERS
