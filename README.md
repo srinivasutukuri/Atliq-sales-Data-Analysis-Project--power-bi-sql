@@ -7,7 +7,10 @@ Solution
 In this project, SQL was utilized for data cleaning and analysis, with some additional data cleaning performed in Power BI. We aim to provide a comprehensive analysis of the dataset to gain insights into the revenue patterns and factors influencing it.
 
 Repository Contents
+
 This GitHub repository contains the following key files and directories:
+
+db_dump.sql file : Data for analysis
 
 SQL Data Cleaning File: This file includes the SQL script used for data cleaning, transforming, and preparing the dataset for analysis.
 
